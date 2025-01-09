@@ -1,8 +1,8 @@
 # Hi, I'm Jude Bariana! 👋  
 
 🎓 **Computer Science Student**  
-📍 **Rutgers University** | **Camden County College**  
-📅 **Graduating May 2026 (Rutgers)** | **May 2024 (CCC)**  
+📍 **Rutgers University**  
+📅 **Graduating May 2026**
 
 ---
 
