@@ -11,7 +11,7 @@
 I'm a junior studying computer science, passionate about crafting software solutions, exploring new technologies, and developing innovative projects. Whether it's building interactive games, diving into algorithms, or creating full applications, I enjoy learning and tackling challenges head-on.  
 
 - 🔍 **Current Focus:**  
-  - Strengthening my skills in Java, C#, Rust, and C  
+  - Strengthening my skills in Java and C#
   - Deepening my knowledge of algorithms, data structures, and SQL  
   - Building professional-level projects to prepare for a software engineering career  
 
