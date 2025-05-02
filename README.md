@@ -1,48 +1,9 @@
-# Hi, I'm Jude Bariana! 👋  
-
-🎓 **Computer Science Student**  
-📍 **Rutgers University**  
-📅 **Graduating May 2026**
-
----
-
-## 🚀 About Me  
-
-I'm a junior studying computer science, passionate about crafting software solutions, exploring new technologies, and developing innovative projects. Whether it's building interactive games, diving into algorithms, or creating full applications, I enjoy learning and tackling challenges head-on.  
-
-- 🔍 **Current Focus:**  
-  - Strengthening my skills in Java and C#
-  - Deepening my knowledge of algorithms, data structures, and SQL  
-  - Building professional-level projects to prepare for a software engineering career  
-
----
-
-## 💻 Tech Stack  
-
-### **Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)  
-
-### **Tools & Frameworks:**  
-![WPF](https://img.shields.io/badge/WPF-68217A?style=flat-square&logo=.net&logoColor=white)  
-![SDL](https://img.shields.io/badge/SDL-003A70?style=flat-square&logo=sdl&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
-![WinForms](https://img.shields.io/badge/WinForms-68217A?style=flat-square&logo=.net&logoColor=white)  
-![ML.NET](https://img.shields.io/badge/ML.NET-3498DB?style=flat-square&logo=.net&logoColor=white)  
-![LiveCharts 2](https://img.shields.io/badge/LiveCharts%202-17A2B8?style=flat-square&logo=livecharts&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-Intermediate-7c6f86) ![C](https://img.shields.io/badge/C-Novice-7c6f86) ![GitHub](https://img.shields.io/badge/GitHub-Intermediate-7c6f86?logo=GitHub&logoColor=c7c2cb) ![Linux](https://img.shields.io/badge/Linux-Novice-7c6f86?logo=Linux&logoColor=c7c2cb) ![MySQL](https://img.shields.io/badge/MySQL-Novice-7c6f86?logo=MySQL&logoColor=c7c2cb)
 
 
-### **Other Skills:**  
-- Data Structures and Algorithms  
-- SQL and Databases  
-- Object-Oriented Programming  
----
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbariana&langs_count=20&bg_color=c7c2cb&title_color=000000&text_color=000000) | <p align="left">Hi! I'm Jude Bariana<br> I'm a *Software Engineering* student @ Rutgers University 2026<br> I have experience in C, C#, Java, Go, and Rust <br>|
+|-------------------------|-------------------------|
+*GOALS* <br><br> ★ Graduate! <br> ★ Collaborate with others on a project <br> ★ Create a business management dashboard 
 
 
-## 🎯 Let's Connect!  
 
-💼 **LinkedIn:** https://www.linkedin.com/in/jude-bariana-1250732b4/  
-📧 **Email:** jbariana2@gmail.com  
